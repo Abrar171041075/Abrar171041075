@@ -16,6 +16,21 @@
 - 📫 How to reach me **abrarcuetcse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18TO7MlSTI33t-XJesT9yWQLw0cD8uWWz/view](https://drive.google.com/file/d/18TO7MlSTI33t-XJesT9yWQLw0cD8uWWz/view)
+- <p align="center">
+
+  <br/>
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abrartaher75/competition/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abrartaher75/dataset/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abrartaher75/notebook/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abrartaher75/discussion/light&quot; />
+</p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabrartaher75%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![abrartaher75](https://road-to-kaggle-grandmaster.vercel.app/api/simple/abrartaher75)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
