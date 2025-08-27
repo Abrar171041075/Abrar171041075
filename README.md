@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abrar Taher</h1>
-<h3 align="center">A part-time CS undergraduate student and a full-time learner</h3>
+<h3 align="center">A CS graduate student and a full-time learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar171041075&label=Profile%20views&color=0e75b6&style=flat" alt="abrar171041075" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar171041075" alt="abrar171041075" /></a> </p>
 
-- 🌱 I’m currently learning **Statistics, Machine Learning, Deep Learning, Business Intelligence tool**
+- 🌱 I’m currently learning **Explainable AI, GAN, Medical Image Processing**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
-
-- 🤝 I’m looking for help with **image processing**
 
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **abrarcuetcse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18TO7MlSTI33t-XJesT9yWQLw0cD8uWWz/view](https://drive.google.com/file/d/18TO7MlSTI33t-XJesT9yWQLw0cD8uWWz/view)
 - <p align="center">
 
 <h3 align="left">Connect with me:</h3>
