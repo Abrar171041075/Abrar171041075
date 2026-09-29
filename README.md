@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abrar Taher</h1>
-<h3 align="center">A CS graduate student and a full-time learner</h3>
+<h3 align="center">Prospective Graduate Student | M.Sc. Candidate in CSE @ CUET</h3>
+
+<p align="center">
+  <i>Focusing on Deep Learning, Medical Image Analysis, Multimodal Representation Learning, & Trustworthy AI</i>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar171041075&label=Profile%20views&color=0e75b6&style=flat" alt="abrar171041075" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar171041075" alt="abrar171041075" /></a> </p>
 
-- 🌱 I’m currently learning **Explainable AI, GAN, Medical Image Processing**
+### 🔬 Research & Academic Profile
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **abrarcuetcse@gmail.com**
-
-
-
+- 🎓 **Current Role:** Instructor in Computer Science at **Asian University for Women.
+- 🧪 **Master's Thesis:** *Pathology Preserving Lesion-Vessel Interaction Learning for Progression-Aware Diabetic Retinopathy Grading*.
+- 🌱 **Currently Exploring:** Multimodal Representation Learning, Explainable AI (XAI), Knowledge Distillation, and Federated Learning for Biomedical Data.
+- 👯 **Looking to Collaborate on:** Deep Learning in Healthcare, Medical Image Analysis (MRI, Retinal Fundus, Histopathology), and Multimodal AI.
+- 🎯 **Career Goal:** Actively seeking **PhD opportunities** in Medical Image Processing, Multimodal Representation Learning, and Trustworthy AI.
+- 💬 **Ask me about:** Deep Learning, Medical Image Preprocessing, Computer Vision.
+- 📫 **How to reach me:** **abrarcuetcse@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abrar171041075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abrar171041075" height="30" width="40" /></a>
@@ -35,9 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar171041075&show_icons=true&locale=en" alt="abrar171041075" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar171041075&" alt="abrar171041075" /></p>
-
-
-
-
-
-
